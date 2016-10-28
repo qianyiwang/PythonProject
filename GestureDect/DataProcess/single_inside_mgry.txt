@@ -1,0 +1,16 @@
+10-11 01:10:01.695 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.2207427
+10-11 01:10:01.704 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.5073822
+10-11 01:10:01.726 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 3.0831356
+10-11 01:10:01.726 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.774822
+10-11 01:10:01.734 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.9682412
+10-11 01:10:01.742 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.7235243
+10-11 01:10:01.755 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.418788
+10-11 01:10:01.764 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 2.1209605
+10-11 01:10:01.894 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 6.290483
+10-11 01:10:01.903 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 12.265715
+10-11 01:10:01.925 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 17.901964
+10-11 01:10:01.925 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 20.929678
+10-11 01:10:01.934 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 21.2564
+10-11 01:10:01.943 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 18.035147
+10-11 01:10:01.954 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 13.022982
+10-11 01:10:01.962 4119-4119/com.example.wangqianyi.holdingstreerwheeldect_v2 V/hand moving acc_z: 4.149354

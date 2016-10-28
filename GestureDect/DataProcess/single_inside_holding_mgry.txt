@@ -1,0 +1,14 @@
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 2.1195855
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 2.1265178
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 2.019598
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 2.269541
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 2.2485504
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 4.0367746
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 7.085918
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 10.390184
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 13.839407
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 17.156914
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 18.758545
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 17.24013
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 12.717935
+10-11 10:18:25.365 21375-21375/com.example.wangqianyi.holdingstreerwheeldect_v2 V/mGry: 2.9278002

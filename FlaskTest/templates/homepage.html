@@ -1,0 +1,88 @@
+
+<html>
+    <head>
+        <title>QianyiHomePage</title>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <table width="1200" border="0">
+            <tr>
+                <td colspan="3" bgcolor="003366"  align="center">
+                    <h1 style="color: #FFCC33; font-size:10px;">Welcome to Qianyi's Home Page</h1>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td style="background-color:#EEEEEE;width:15%;">
+                       <img id="me" align="left" src="wqy.jpg" width="200" height="260" />
+                </td>
+                <td style="background-color:#EEEEEE;height:200px;width:85%;text-align:top;">
+                    <p align="left"> <b>Research Project:</b><br></p>
+                    <a style="color:blue" href='locationSearch/userLogin.html' >Record Trip View</a><br>
+                    <a style="color:blue" href='musicSearch/searchMusic.html' >Music Search</a><br>
+                    <a style="color:blue" href='DynamicDemo/myDynamicDemo_method2_v2.html' >Dynamic Demo</a><br>
+                    <a style="color:blue" href='InterfaceProject/interfaceProject.php' >Interface Project</a><br>
+                    <a style="color:blue" href='prpInterface/prpInterface.php'>fordPRP</a><br> 
+                    <a style="color:blue" href='TcpServer/TcpServer.php'>TcpServer</a> 
+                </td> 
+                <td style="background-color:#EEEEEE;"></td>
+                
+            </tr>
+            <tr valign="top">
+                <td style="background-color:#EEEEEE;">
+                    Qianyi Wang<br>
+                    University of Michigan Dearborn<br>
+                    ECE Department ELB122<br>
+                    qianyiw@umich.edu<br>
+                </td>
+                <td style="background-color:#EEEEEE;"></td>
+                <td style="background-color:#EEEEEE;"></td>
+               
+            </tr>
+            <tr>
+                <td colspan="3" bgcolor="003366"  align="center" >
+                    <h1 style="color: #FFCC33; font-size:10px;">Education Background</h1>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#EEEEEE;width:50%">
+                    <img src="CAU.png" width="180" height="180" />
+                </td>
+                <td style="background-color:#EEEEEE;width:20%">
+                    <img src="UW.png" width="180" height="180" />
+                </td>
+                <td style="background-color:#EEEEEE;">    
+                    <img src="UMD.png" width="180" height="180" />
+                </td>
+                
+            </tr>
+            <tr>
+                <td style="background-color:#EEEEEE;width:33%">
+                    <p> China Agriculture University<br>
+                        Electricity and Information Science <br>Technology<br>
+                        Science Bechelor</p>
+                </td>
+                <td style="background-color:#EEEEEE;width:33%">
+                    <p>University of Waterloo<br>
+                    Physics<br>
+                    Science Bechelor</p>
+                </td>
+                <td style="background-color:#EEEEEE;width:33%">
+                    <p> University of Michigan Dearborn<br>
+                        Electrical Engineering<br>
+                        Engineering Master</p>
+                </td> 
+                    
+            </tr>
+            
+        </table>
+        <script> 
+            $(document).ready(function(){
+                $("h1").animate({fontSize:'3em'},2000);
+                $("#me").fadeIn(2000);
+            });
+        </script> 
+    </body>
+</html>
+

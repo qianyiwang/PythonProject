@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="X[1] <= -10.4755\ngini = 0.729\nsamples = 42\nvalue = [15, 16, 23, 10]"] ;
+1 [label="X[4] <= -20.8804\ngini = 0.6224\nsamples = 25\nvalue = [15, 16, 0, 6]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="X[3] <= 15.8586\ngini = 0.3967\nsamples = 15\nvalue = [0, 16, 0, 6]"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 0, 6]"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 11\nvalue = [0, 16, 0, 0]"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 10\nvalue = [15, 0, 0, 0]"] ;
+1 -> 5 ;
+6 [label="X[3] <= 13.6459\ngini = 0.2524\nsamples = 17\nvalue = [0, 0, 23, 4]"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="X[0] <= 4.34\ngini = 0.4444\nsamples = 5\nvalue = [0, 0, 2, 4]"] ;
+6 -> 7 ;
+8 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 3]"] ;
+7 -> 8 ;
+9 [label="X[1] <= -7.9707\ngini = 0.4444\nsamples = 3\nvalue = [0, 0, 2, 1]"] ;
+7 -> 9 ;
+10 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1]"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 2, 0]"] ;
+9 -> 11 ;
+12 [label="gini = 0.0\nsamples = 12\nvalue = [0, 0, 21, 0]"] ;
+6 -> 12 ;
+}
